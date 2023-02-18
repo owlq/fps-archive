@@ -1,4 +1,4 @@
-# teen-fps-pack
+# teen fps pack
 
 an fps pack made by ax#8888
 
