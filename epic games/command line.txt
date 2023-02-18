@@ -1,0 +1,8 @@
+-LANPLAY -NOSPLASH -USEALLAVALIABLECORES
+
+---------------------------------------------
+
+
+lan play: better ping
+nosplash: doesnt show that bad fortnite little screen
+useallavaliblecores: uses the empty cores that havent been used

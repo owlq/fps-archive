@@ -1,0 +1,3 @@
+iwr -useb https://christitus.com/win | iex
+
+run as admin

@@ -1,0 +1,24 @@
+This is how to fix all issues with crashing.
+
+1. open fortnite as administraitor via epic games launcher
+
+2. adjust compatibility mode
+   - go to your "FortniteClient-Win64-Shipping.exe" file (C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64)
+   - go to properties --> compatability --> disable full screen optimizations
+
+3. disable start up apps (uncheck all the non needed startup apps)
+
+4. disable background applications
+
+5. delete all temp files (Clean Temporary Files.bat) and delete from recycle bin
+
+6. change rendering mode
+
+7. verify game files
+
+8. turn "allow multithreaded rendering"
+
+9. repair easy anti cheat (C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64\EasyAntiCheat)
+   - run the setup and repair it
+
+10. update your graphics drivers

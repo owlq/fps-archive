@@ -1,0 +1,1 @@
+Enable MSI mode on all the devices that have MSI or MsiX supported (Do not enable MSI mode for your audio device)
